@@ -2,9 +2,9 @@
 
 Here is zhou-yg a full-stack engineer , focusing on low-code domain
 
-It's a pleasure to share the following techniques with each other
+It's a pleasure to share the following techniques with you
 
-- programming paradigm, especially RP, FP, Eevent-Driven-Programing
+- Programming paradigm, especially RP, FP, Eevent-Driven-Programing
 - React/Vue ecology
 - DSL and high performance runtime
 

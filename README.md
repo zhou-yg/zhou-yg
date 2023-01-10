@@ -12,7 +12,7 @@ Or any other that can improve development efficiency 10x times
 
 Or any other that make it 10x times easier for ordinary perople to write program
 
-Now, I'm developing a new ui-library acrosing any client / framkework, see details in [polymita](https://github.com/zhou-yg/polymita)
+Now, I'm developing a new ui-library acrosing clients / framkeworks, see details in [polymita](https://github.com/zhou-yg/polymita)
 
 <!--
 **zhou-yg/zhou-yg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

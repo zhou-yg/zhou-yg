@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-I'm zhou-yg a full-stack engineer , focusing on low-code domain
+Here is zhou-yg a full-stack engineer , focusing on low-code domain
+
+It's a pleasure to share the following techniques with each other
+
+- programming paradigm, especially RP, FP, Eevent-Driven-Programing
+- React/Vue ecology
+- DSL and high performance runtime
+
+Or any other that can improve development efficiency 10x times
+
+Or any other that make it 10x times easier for ordinary perople to write program
 
 <!--
 **zhou-yg/zhou-yg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

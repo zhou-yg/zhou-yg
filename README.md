@@ -14,7 +14,7 @@ Or any other that make it 10x times easier for ordinary perople to write program
 
 Now, I'm developing a new ui-library acrosing clients / framkeworks, see details in [polymita](https://github.com/zhou-yg/polymita)
 
-[![zhou-yg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou-yg)](https://github.com/anuraghazra/github-readme-stats)
+[![zhou-yg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou-yg)](https://github.com/zhou-yg)
 
 
 <!--

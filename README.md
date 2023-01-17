@@ -4,15 +4,15 @@ Here is zhou-yg a full-stack engineer , focusing on low-code domain
 
 It's a pleasure to share the following techniques with you
 
-- Programming paradigm, especially RP, FP, Eevent-Driven-Programing
+- Programming paradigm, especially RP, FP, Event-Driven-Programing
 - React/Vue ecology
 - DSL and high performance runtime
 
 Or any other that can improve development efficiency 10x times
 
-Or any other that make it 10x times easier for ordinary perople to write program
+Or any other that make it 10x times easier for ordinary people to write program
 
-Now, I'm developing a new ui-library acrosing clients / framkeworks, see details in [polymita](https://github.com/zhou-yg/polymita)
+Now, I'm developing a new ui-library across clients / frameworks, see details in [polymita](https://github.com/zhou-yg/polymita)
 
 [![zhou-yg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou-yg)](https://github.com/zhou-yg)
 
